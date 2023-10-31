@@ -13,10 +13,10 @@ Dataset ini dapat digunakan untuk melihat jumlah bahan kimia yang dikandung dala
 Bagaimana kita dapat dengan efisien dan akurat menentukan jumlah bahan kimia yang terkandung dalam anggur (wine) untuk memahami dan mengendalikan faktor-faktor yang memengaruhi kualitas, rasa, dan keamanan produk ini, serta memenuhi persyaratan peraturan yang berlaku.
 
 ### Goals
-Mengembangkan metode analisis yang cepat dan akurat untuk mengukur jumlah bahan kimia yang terkandung dalam wine, termasuk senyawa seperti alkohol, asam tartarat, gula, dan lainnya.
+Mengembangkan model yang dapat memprediksi kualitas wine berdasarkan atribut kimia dan sensorik tertentu.
 
 ## Solution Statement
-Mengembangkan metode analisis kimia yang akurat dan cepat untuk mengukur berbagai senyawa dalam wine, seperti kromatografi, spektroskopi, dan teknik sensorik yang dapat memberikan hasil yang dapat diandalkan.
+Memberikan alat yang berguna bagi industri anggur, produsen, dan pecinta anggur untuk memahami, memprediksi, dan menghargai kualitas wine dengan lebih baik, meningkatkan pengalaman anggur secara keseluruhan, dan memberikan kontribusi pada perkembangan industri anggur.
 
 ## Data Understanding
 Wine Quality Dataset ini menjelaskan jumlah berbagai bahan kimia yang ada dalam anggur (wine) dan pengaruhnya terdahap kualitas. Dataset diambil dari kaggle dan bisa diakses di link berikut
