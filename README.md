@@ -213,5 +213,6 @@ accuracy_score(xtest_predict,ytest)
 ![dor](13.png)
 
 ## Deployment
-https://appapplestockprice20152020-p97yv9qscttbf4zjeqb6fd.streamlit.app/
-![dor](n15.png)
+https://klasifikasi-wine-quality.streamlit.app/
+![dor](20.png)
+![dor](21.png)
